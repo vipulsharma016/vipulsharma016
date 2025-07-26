@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there! I'm Vipul Sharma, a B.Tech (CSE) student. I am passionate about software development, with a strong foundation in Java and web technologies, including HTML, CSS, and JavaScript. I am dedicated to building maintainable and user-friendly applications.
 
-<!--
-**vipulsharma016/vipulsharma016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:
+ 
+* Programming Languages: Java, JavaScript, HTML, CSS
+ 
+* Web Technologies: React.js, Vite, API Integration
+ 
+* Development Tools: Git/GitHub, VS Code
+ 
+* Databases: SQL Databases, DBMS concepts
+ 
+* Computer Science Fundamentals: Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect With Me: 
+Email:vsharmaa11116@gmail.com
+LinkedIn: https://www.linkedin.com/in/vipul-sharma-156259257
