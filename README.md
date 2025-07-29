@@ -8,9 +8,9 @@ Skills:
  
 * Development Tools: Git/GitHub, VS Code
  
-* Databases: SQL Databases, DBMS concepts
+* Databases: SQL, MySQL
  
-* Computer Science Fundamentals: Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA)
+* Computer Science Fundamentals: Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), Database Management System (DBMS)
 
 
 Connect With Me: 
